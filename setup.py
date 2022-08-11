@@ -28,6 +28,8 @@ AllowTcpForwarding yes
 GatewayPorts yes
 X11Forwarding no
 PermitTTY no
+
+UseDNS no
 """
 
 
